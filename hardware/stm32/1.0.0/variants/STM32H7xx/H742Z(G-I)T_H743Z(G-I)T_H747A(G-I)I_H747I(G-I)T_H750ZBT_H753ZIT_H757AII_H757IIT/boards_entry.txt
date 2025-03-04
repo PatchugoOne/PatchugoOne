@@ -1,9 +1,0 @@
-# PatchugoOne
-Innuvatech.menu.pnum.PatchugoOne=Innuvatech H753ZITx
-Innuvatech.menu.pnum.PatchugoOne.upload.maximum_size=2097152
-Innuvatech.menu.pnum.PatchugoOne.upload.maximum_data_size=884736
-Innuvatech.menu.pnum.PatchugoOne.build.board=Innuvatech_H753ZITX
-Innuvatech.menu.pnum.PatchugoOne.build.product_line=STM32H753xx
-Innuvatech.menu.pnum.PatchugoOne.build.variant=STM32H7xx/H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H757IIT
-Innuvatech.menu.pnum.PatchugoOne.debug.svd_file={runtime.tools.STM32_SVD.path}/svd/STM32H7xx/STM32H753.svd
-
