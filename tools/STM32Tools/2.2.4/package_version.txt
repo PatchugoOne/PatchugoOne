@@ -1,0 +1,4 @@
+commit e87c95fd5c12ca0bae9bce2316340b3046c60442
+Author: Frederic Pillon <frederic.pillon@st.com>
+
+    doc: update badge version to 2.2.4
